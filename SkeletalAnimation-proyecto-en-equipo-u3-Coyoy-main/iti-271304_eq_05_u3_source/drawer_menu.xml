@@ -1,0 +1,73 @@
+<!--
+    *** ESTE MENÚ VA EN:
+        "/res/menu"
+    ***
+    Crear el Directorio dando click derecho sobre "res"
+    res -> New -> Directory (menu)
+ -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/our_team"
+        android:title="Acerca de nuestro equipo" />
+    <item
+        android:id="@+id/model1"
+        android:title="Vampiro" />
+    <item
+        android:id="@+id/model2"
+        android:title="Esqueleto" />
+    <item
+        android:id="@+id/model3"
+        android:title="Mariposa" />
+    <item
+        android:id="@+id/model4"
+        android:title="Ratón" />
+    <item
+        android:id="@+id/model5"
+        android:title="Cabeza de jaguar" />
+    <item
+        android:id="@+id/model5a"
+        android:title="Jaguar" />
+    <item
+        android:id="@+id/model6"
+        android:title="Araña" />
+    <item
+        android:id="@+id/modelW"
+        android:title="Avispa" />
+    <item
+        android:id="@+id/model7"
+        android:title="Mamút" />
+    <item
+        android:id="@+id/model8"
+        android:title="Diente de sable" />
+    <item
+        android:id="@+id/model9"
+        android:title="Velociraptor" />
+    <item
+        android:id="@+id/model10"
+        android:title="T-rex" />
+    <item
+        android:id="@+id/model11"
+        android:title="Triceraptos" />
+    <item
+        android:id="@+id/model12"
+        android:title="Ankylosaurus" />
+    <item
+        android:id="@+id/model13"
+        android:title="Apatosaurus" />
+    <item
+        android:id="@+id/model14"
+        android:title="Parasaurolophus" />
+    <item
+        android:id="@+id/model15"
+        android:title="Stegosaurus" />
+    <item
+        android:id="@+id/model16"
+        android:title="Dron" />
+    <item
+        android:id="@+id/model17"
+        android:title="Breakdance" />
+    <item
+        android:id="@+id/menu_exit"
+        android:title="Salir de la aplicación"
+        />
+</menu>

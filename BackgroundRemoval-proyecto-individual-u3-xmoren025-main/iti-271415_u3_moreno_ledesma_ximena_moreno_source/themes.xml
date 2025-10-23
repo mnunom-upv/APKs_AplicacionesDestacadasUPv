@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Z_U3_MORENO_LEDESMA_XIMENA_ABIGAIL" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
